@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\202249992\Desktop\coding\Lab04(C)1.1\Lab04(C)1.1\main.cpp(81,12): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\202249992\Desktop\coding\Lab04(C)1.1\Lab04(C)1.1\main.cpp(113,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\202249992\Desktop\coding\Lab04(C)1.1\Lab04(C)1.1\main.cpp(114,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\202249992\Desktop\coding\Lab04(C)1.1\Lab04(C)1.1\main.cpp(115,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Lab04(C)1.1.vcxproj -> C:\Users\202249992\Desktop\coding\Lab04(C)1.1\x64\Debug\Lab04(C)1.1.exe
